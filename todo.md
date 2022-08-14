@@ -1,0 +1,2 @@
+-  [ ] card validations
+-  [ ] card info submission
